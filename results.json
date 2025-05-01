@@ -23,5 +23,13 @@
     "en_tl_3": 25.569043777351858,
     "en_nl_3": 25.36612962068901
   },
-  "test_generate": "KeyError('.<end>')"
+  "test_generate": {
+    "english_2_gram": "I amoulpeginShmee bie ae",
+    "english_3_gram": "I amit: Lynmkm ways.",
+    "english_4_gram": "I Love gifts @OndMade a no",
+    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
+    "spanish_3_gram": "Soy orbe",
+    "french_2_gram": "Je suis:/opapropades tprisl",
+    "french_3_gram": "Je suis tune"
+  }
 }
