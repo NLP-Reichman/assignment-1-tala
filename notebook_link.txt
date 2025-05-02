@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/talamram/NLP/blob/main/Assignment_1.ipynb
+https://colab.research.google.com/drive/1Qwl9GdRCy_sdFJwATMin-cX-2m8_I8aj?usp=sharing
